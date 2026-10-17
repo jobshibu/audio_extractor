@@ -2,7 +2,7 @@
 
 Convert a YouTube video to an MP3 file using [yt-dlp](https://github.com/yt-dlp/yt-dlp) + ffmpeg.
 
-## Setup (already done for you, for reference)
+
 
 ```bash
 /opt/homebrew/bin/python3.13 -m venv venv   # yt-dlp needs Python >= 3.10; macOS system python3 is 3.9
